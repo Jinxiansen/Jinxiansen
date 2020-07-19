@@ -3,9 +3,12 @@ Hello, <img src="https://github.com/Jinxiansen/Jinxiansen/blob/master/assets/hi.
 
 I have strong enthusiasm for `SwiftUI` and `Server Side Swift`, if you like it, welcome to learn and communicate together!
 
+🚀 Some of my main projects:
+
+- [SwiftUI](https://github.com/Jinxiansen/SwiftUI) - SwiftUI Framework Learning and Usage Guide. 
+- [SwiftServerSide](https://github.com/Jinxiansen/SwiftServerSide-Vapor) - Vapor-based Swift server open source project.
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jinxiansen&show_icons=true&title_color=333&icon_color=fac926&text_color=777&bg_color=f8f8f8" alt="晋先森's Github Stats">
+⚙️ I also maintain a few open-source projects:
 
-
-<!--![](https://visitor-badge.glitch.me/badge?page_id=<jinxiansen>)-->
+- [docs-cn](https://github.com/vapor/docs-cn) - Vapor server framework Chinese document.

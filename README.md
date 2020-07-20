@@ -1,8 +1,8 @@
 
 Hey, nice to see you.
-<img src="assets/hi.gif" width="30 px">
+<img src="https://github.com/Jinxiansen/Jinxiansen/blob/master/assets/hi.gif" width="30 px">
 
-I'm Jinxiansen, I have strong enthusiasm for `SwiftUI` and `Server Side Swift`, if you like it, welcome to learn and communicate together! <img src="assets/cat.gif" width="30">
+I'm Jinxiansen, I have strong enthusiasm for `SwiftUI` and `Server Side Swift`, if you like it, welcome to learn and communicate together! <img src="https://github.com/Jinxiansen/Jinxiansen/blob/master/assets/cat.gif" width="30">
 
 🚀 Some of my main projects:
 
